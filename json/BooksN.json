@@ -1,0 +1,45 @@
+[
+  {
+    "imgs": "asset/new4.png",
+    "r": "4.5",
+    "title": "INVISIBLE GIRL"
+  ,"key": "Lisa Jewell",
+    "audios": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+  },
+  {
+    "imgs": "asset/new3.png",
+    "r": "4.5",
+    "title": "FEAR STREET",
+    "key": "R.L.Stine",
+    "audios":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3"
+  },
+  {
+    "imgs": "asset/new1.png",
+    "r": "4.5",
+    "title": "A WORLD OF CURIOSITIES",
+    "key": "Louise Penny",
+
+    "audios": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3"
+  },
+  {
+    "imgs": "asset/new2.png",
+    "r": "4.5",
+    "title": "FINAL TASK",
+    "key":"Stephen King",
+    "audios": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+  },
+  {
+    "imgs": "asset/new3.png",
+    "r": "4.5",
+    "title": "FEAR STREET",
+    "key":"R.L.Stine",
+    "audios": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-17.mp3"
+  },
+  {
+    "imgs": "asset/new4.png",
+    "r": "4.5",
+    "title": "INVISIBLE GIRL",
+    "key":"Lisa Jewell",
+    "audios": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3"
+  }
+]

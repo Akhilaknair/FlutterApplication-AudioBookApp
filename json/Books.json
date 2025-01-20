@@ -1,0 +1,45 @@
+[
+  {
+    "imgs": "asset/audio6.png",
+     "r": "4.5",
+    "title": "LISTENING TO STARS"
+    ,"key": "Alexander Badeu",
+    "audios": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+  },
+  {
+  "imgs": "asset/audio4.png",
+    "r": "4.5",
+    "title": "CHAIN OF IRON",
+    "key": "Cassandra Clare",
+     "audios":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3"
+},
+  {
+  "imgs": "asset/audio1.png",
+    "r": "4.5",
+    "title": "PEACE IS PRACTICE",
+    "key": "Morgan Harper",
+
+    "audios": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3"
+},
+  {
+  "imgs": "asset/audio3.png",
+    "r": "4.5",
+    "title": "WAYS TO MAKE SUNSHINE",
+    "key":"Renne Watson",
+    "audios": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+},
+  {
+  "imgs": "asset/audio5.png",
+    "r": "4.5",
+    "title": "WISH ON ALL THE STARS",
+    "key":"Lisa Schroeder",
+    "audios": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-17.mp3"
+},
+  {
+  "imgs": "asset/audio2.png",
+    "r": "4.5",
+    "title": "IT ENDS WITH US",
+    "key":"Colleen Hoover",
+    "audios": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3"
+}
+]
