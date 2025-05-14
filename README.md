@@ -1,16 +1,28 @@
-# music_app2
+🎧 Flutter Audio App UI
+A simple audio book player UI built with Flutter that dynamically loads data from local JSON files. The app mimics an audio streaming platform featuring popular, new, and trending audio content.
 
-A new Flutter project.
+✨ Features
+✅Multi-tab layout: Trending, New, and Popular sections
 
-## Getting Started
+✅Reads local JSON (assets/json/) to populate UI
 
-This project is a starting point for a Flutter application.
+✅Audio cards with images, ratings, titles, and categories
 
-A few resources to get you started if this is your first Flutter project:
+✅Double-tap to navigate to a detailed audio page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅Image carousel for popular audios
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅Smooth UI with PageView, TabBar, and ListView
+
+✅Responsive layout with custom scroll behavior
+
+🧰 Technologies Used
+✅Flutter – UI framework
+
+✅Dart – Programming language
+
+✅JSON – Data format for audio content
+
+✅Material Design – UI components
+
+✅PageView / ListView / TabBar – For interactive UI
